@@ -1,5 +1,9 @@
 ## Movie Seat Booking - LocalStorage
 
+https://kaiyuncheng.github.io/movieSeatBooking/
+
+![](img/photo1.png)
+
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
 ## Project Specifications
