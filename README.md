@@ -1,4 +1,5 @@
 ## Movie Seat Booking - LocalStorage
+## 電影院座位選位 使用LocalStorage
 
 https://kaiyuncheng.github.io/movieSeatBooking/
 
